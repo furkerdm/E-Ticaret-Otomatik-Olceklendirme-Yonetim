@@ -1,0 +1,1 @@
+# E-Ticaret-Otomatik-Olceklendirme-Yonetim
