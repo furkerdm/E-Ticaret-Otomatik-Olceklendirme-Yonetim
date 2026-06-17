@@ -1,0 +1,22 @@
+# Derlenmiş çıktılar ve build klasörleri
+target/
+build/
+*.class
+*.jar
+*.war
+
+# IDE Ayarları ve Dosyaları (IntelliJ, VS Code, Eclipse vb.)
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
